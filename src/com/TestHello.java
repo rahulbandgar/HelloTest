@@ -4,7 +4,9 @@ public class TestHello {
 
 	public static void main(String[] args) {
 
-			System.out.println("Hello, Rahul One 21 ABE - test2 abcd..This is good one");
+			System.out.println("Hello, this 11 June 2017");
+
+	
 	}
 
 }
